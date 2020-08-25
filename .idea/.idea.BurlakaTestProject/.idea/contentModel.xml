@@ -13,8 +13,6 @@
             <e p="chromedriver.exe" t="Include" />
           </e>
         </e>
-        <e p="chromedriver" t="Include" />
-        <e p="geckodriver" t="Include" />
         <e p="Helpers.csproj" t="IncludeRecursive" />
         <e p="LogIn.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />

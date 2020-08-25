@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=15845786_002Dba21_002D4d31_002Db872_002D5128b8ed49bf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LogOutByUrlSuccesChromeTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::69056340-891A-4B03-8794-08E9482BBA9E::.NETFramework,Version=v4.8::SeleniumTests.LogOutByUrlSuccesChrome.LogOutByUrlSuccesChromeTest&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::69056340-891A-4B03-8794-08E9482BBA9E::.NETFramework,Version=v4.8::SeleniumTests.LogOutByUrlSuccesFF.LogOutByUrlSuccesFFTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;69056340-891A-4B03-8794-08E9482BBA9E/d:Chrome/f:LogInSuccesChrome.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;69056340-891A-4B03-8794-08E9482BBA9E/d:FireFox/f:LogInSuccesFF.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
