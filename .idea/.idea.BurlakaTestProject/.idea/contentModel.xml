@@ -42,6 +42,9 @@
       </e>
       <e p="UserApiTest" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateUser.cs" t="Include" />
+        <e p="DeteteUser.cs" t="Include" />
+        <e p="GetUser.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
@@ -59,7 +62,7 @@
           <e p="GetUserResponse.cs" t="Include" />
           <e p="UpdateUserResponse.cs" t="Include" />
         </e>
-        <e p="Tests.cs" t="Include" />
+        <e p="UpdateUser.cs" t="Include" />
         <e p="UserApiTest.csproj" t="IncludeRecursive" />
       </e>
     </e>
