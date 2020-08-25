@@ -19,7 +19,8 @@ namespace Helpers
         [SetUp]
         public void TestInitialize()
         {
-            var path = "/users/viktorburlaka/RiderProjects/WebDriver";
+            //var path = "/users/viktorburlaka/RiderProjects/WebDriver";
+            var path = "chromedriver.exe";
             Driver = new ChromeDriver(path);
             Driver.Manage().Window.Maximize();
         }

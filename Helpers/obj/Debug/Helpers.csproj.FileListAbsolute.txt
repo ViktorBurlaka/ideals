@@ -19,3 +19,5 @@
 /Users/viktorburlaka/RiderProjects/BurlakaTestProject/Helpers/obj/Debug/Helpers.csproj.CopyComplete
 /Users/viktorburlaka/RiderProjects/BurlakaTestProject/Helpers/obj/Debug/Helpers.dll
 /Users/viktorburlaka/RiderProjects/BurlakaTestProject/Helpers/obj/Debug/Helpers.pdb
+/Users/viktorburlaka/RiderProjects/BurlakaTestProject/Helpers/bin/Debug/chromedriver
+/Users/viktorburlaka/RiderProjects/BurlakaTestProject/Helpers/bin/Debug/geckodriver

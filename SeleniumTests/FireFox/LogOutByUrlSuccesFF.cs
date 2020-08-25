@@ -1,7 +1,15 @@
+using Helpers;
+using NUnit.Framework;
+
 namespace SeleniumTests
 {
-    public class LogOutByUrlSuccesFF
+    [TestFixture]
+    public class LogOutByUrlSuccesFF : BaseTestFirefoxClass
     {
-        
+        [Test]
+        public void LogOutByUrlSuccesFFTest()
+        {
+            
+        }
     }
 }

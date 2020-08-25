@@ -59,7 +59,6 @@
         <Compile Include="FireFox\LogInSuccesFF.cs" />
         <Compile Include="FireFox\LogOutByUrlSuccesFF.cs" />
         <Compile Include="FireFox\LogOutSuccesFF.cs" />
-        <Compile Include="Tests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
