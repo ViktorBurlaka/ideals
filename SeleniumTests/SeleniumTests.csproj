@@ -53,6 +53,12 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Chrome\LogInSuccesChrome.cs" />
+        <Compile Include="Chrome\LogOutByUrlSuccesChrome.cs" />
+        <Compile Include="Chrome\LogOutSuccesChrome.cs" />
+        <Compile Include="FireFox\LogInSuccesFF.cs" />
+        <Compile Include="FireFox\LogOutByUrlSuccesFF.cs" />
+        <Compile Include="FireFox\LogOutSuccesFF.cs" />
         <Compile Include="Tests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

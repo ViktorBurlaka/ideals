@@ -7,17 +7,22 @@
       <e p="BurlakaTestProject.sln" t="IncludeFlat" />
       <e p="Helpers" t="IncludeRecursive">
         <e p="BaseTestChromeClass.cs" t="Include" />
+        <e p="BaseTestFirefoxClass.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="chromedriver.exe" t="Include" />
           </e>
         </e>
         <e p="Helpers.csproj" t="IncludeRecursive" />
+        <e p="LogIn.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="Urls.cs" t="Include" />
+        <e p="WebDriver.cs" t="Include" />
+        <e p="WebElement.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive">
         <e p="NUnit3TestAdapter.4.0.0-alpha.1/build/net35/nunit.engine.api.dll" t="Include" />
@@ -31,6 +36,16 @@
           <e p="Debug" t="Include">
             <e p="chromedriver.exe" t="Include" />
           </e>
+        </e>
+        <e p="Chrome" t="Include">
+          <e p="LogInSuccesChrome.cs" t="Include" />
+          <e p="LogOutByUrlSuccesChrome.cs" t="Include" />
+          <e p="LogOutSuccesChrome.cs" t="Include" />
+        </e>
+        <e p="FireFox" t="Include">
+          <e p="LogInSuccesFF.cs" t="Include" />
+          <e p="LogOutByUrlSuccesFF.cs" t="Include" />
+          <e p="LogOutSuccesFF.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
