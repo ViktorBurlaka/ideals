@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{2267084A-548A-4692-91D1-9D52AE583D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "SeleniumTests\SeleniumTests.csproj", "{69056340-891A-4B03-8794-08E9482BBA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApiTest", "UserApiTest\UserApiTest.csproj", "{706AC1F0-26B0-4EF8-8DAB-11963DE9CF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2267084A-548A-4692-91D1-9D52AE583D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2267084A-548A-4692-91D1-9D52AE583D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2267084A-548A-4692-91D1-9D52AE583D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2267084A-548A-4692-91D1-9D52AE583D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69056340-891A-4B03-8794-08E9482BBA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69056340-891A-4B03-8794-08E9482BBA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69056340-891A-4B03-8794-08E9482BBA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69056340-891A-4B03-8794-08E9482BBA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706AC1F0-26B0-4EF8-8DAB-11963DE9CF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706AC1F0-26B0-4EF8-8DAB-11963DE9CF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706AC1F0-26B0-4EF8-8DAB-11963DE9CF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706AC1F0-26B0-4EF8-8DAB-11963DE9CF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
